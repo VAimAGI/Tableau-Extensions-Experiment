@@ -19,7 +19,7 @@
     <author name="Vatsal Aima" email="vatsala@gain-insights.com" organization="GainInsights Solutions Pvt. Ltd." website="https://gain-insights.com/"/>
     
     <!-- Specifies the minimum API version required to run the extension. -->
-    <min-api-version>1.0</min-api-version>
+    <min-api-version>0.9</min-api-version>
 
     <!-- Host your Server (NOW Running LocalHost) -->
     <source-location>
@@ -27,8 +27,7 @@
     </source-location>
 	
     <!-- Provide Icon Base64 encoded (if Any) -->
-    <icon>
-    </icon>
+    <icon></icon>
 
     <!--  If your extension can access the underlying data or information about the data sources, you must declare full data permission in the manifest -->
     <permissions>
