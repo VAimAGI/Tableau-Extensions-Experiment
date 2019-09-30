@@ -23,7 +23,7 @@
 
     <!-- Host your Server (NOW Running LocalHost) -->
     <source-location>
-      <url>http://localhost:8080/index.html</url>
+      <url>http://localhost:8080/Landing%20Page.html</url>
     </source-location>
 	
     <!-- Provide Icon Base64 encoded (if Any) -->
